@@ -1,0 +1,11 @@
+product
+
+id //auto increment
+name //required string,max 100 >>varChar
+desc //required string,max 100 >>text
+price //required numeric >>    double
+image //required string,max 500 >> varChar
+created at?? required , datetime
+
+
+ 

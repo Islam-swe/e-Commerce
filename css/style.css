@@ -1,0 +1,62 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+
+}
+nav
+{  
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    display: flex;
+    position: fixed;
+ 
+}
+
+.logo
+{
+    
+    float: left;
+
+
+}
+.logo h1
+{
+    font-size: 1.5rem;
+    color:gold;
+    padding: 0px 10px 0px 0px;
+}
+.right-nav
+{
+    float: right;
+   
+   
+}
+.right-nav a
+{
+    text-decoration:none;
+    padding: 0px 5px;
+    color: white;
+    font-size:.9rem;
+}
+
+header
+{
+    height:80vh;
+    background-image: url(../imgs/mysql.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+
+.clear-fix
+{
+    
+  padding: 40px;
+}
+.btn 
+{
+    margin-top: 10px;
+}
